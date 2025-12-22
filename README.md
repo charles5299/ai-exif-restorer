@@ -94,8 +94,6 @@ python smart_exif_restorer.py
 
 ```
 ai-exif-restorer/
-├── ai_exif_estimator.py      # AI 智能推測系統
-├── exif_manual_matcher.py    # 人工配對工具
 ├── smart_exif_restorer.py    # 命令列工具
 ├── requirements.txt           # 依賴套件
 ├── README.md                  # 專案說明
