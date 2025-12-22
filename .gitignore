@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 虛擬環境
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# 測試資料和照片（重要！避免上傳大量照片）
+target_dir/
+reference_dir/
+target/
+reference/
+test_photos/
+test_data/
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.JPG
+*.JPEG
+*.PNG
+*.HEIC
+
+# 備份資料夾
+.backup/
+backup/
+
+# 日誌和臨時文件
+*.log
+*.tmp
+*.cache
+
+# 分析結果
+analysis_results/
+reports/
+output/
+
+# 配對表（可能包含隱私路徑）
+*.txt
+!requirements.txt
+
+# 系統文件
+Thumbs.db
+desktop.ini
+.DS_Store
