@@ -73,3 +73,6 @@ output/
 Thumbs.db
 desktop.ini
 .DS_Store
+setup_github_project.py 
+upload.bat 
+UPLOAD_GUIDE.md 
